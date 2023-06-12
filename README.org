@@ -1,0 +1,10 @@
+* cricket
+
+Mirror of https://git.mfiano.net/mfiano/cricket
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/cricket.git   |
+| commit  | 230fa59  |
+| systems | cricket |
+|---------+-------------------------------------------|
+
